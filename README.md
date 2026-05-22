@@ -409,7 +409,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ```
 
-# 4B Output:
+# 4B Program:
 
 ```
 /* USER CODE BEGIN Header */
@@ -705,7 +705,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  <img width="1200" height="1600" alt="WhatsApp Image 2026-05-22 at 11 11 47" src="https://github.com/user-attachments/assets/b38aafe1-ea08-4a52-a4ce-a7e98eeb0e75" />
 
-## Circuit board OFF State :
+## Circuit board ON State :
 
 <img width="1600" height="1200" alt="new" src="https://github.com/user-attachments/assets/c960f316-f1a2-4637-84fa-da16b0a18969" />
 
